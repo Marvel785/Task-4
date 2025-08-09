@@ -1,0 +1,25 @@
+# Build artifacts
+target/
+bin/
+build/
+
+# Version control
+.git/
+.gitignore
+
+# IDE files
+.idea/
+*.iml
+
+# Environment files
+.env
+*.properties
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Documentation
+*.md
+LICENSE
